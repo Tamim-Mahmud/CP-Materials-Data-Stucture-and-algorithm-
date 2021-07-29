@@ -1,2 +1,0 @@
-
-    int pivot = a[start];

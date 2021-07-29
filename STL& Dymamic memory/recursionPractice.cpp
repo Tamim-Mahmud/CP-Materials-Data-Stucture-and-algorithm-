@@ -1,3 +1,4 @@
+
 #include<bits/stdc++.h>
 using namespace std;
  void repla(string &s ,int n){
